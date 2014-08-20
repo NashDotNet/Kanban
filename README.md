@@ -11,19 +11,19 @@ You can either fork and/or clone the repo to your machine or just download the z
   > Visual Studio 2010 or later (including an Express edition) should come with [SQL Server Express LocalDB](http://blogs.msdn.com/b/sqlexpress/archive/2011/07/12/introducing-localdb-a-better-sql-express.aspx)
 
 2. Update EventStore connection string in web.config file to the database created in the first step.
-![VS2013 Pro](vs2013-pro.png)
+![VS2013 Pro](https://raw.githubusercontent.com/NashDotNet/Kanban/master/vs2013-pro.PNG)
 3. Build the solution.
   > Visual Studio should restore all required NuGet packages (make sure missing package option is checked).
 
 4. Run and enjoy!
-![Kanban](kanban-board.png)
+![Kanban](https://raw.githubusercontent.com/NashDotNet/Kanban/master/kanban-board.PNG)
 
 
 *We have tested the steps above with both VS2013 pro and express edition.*
 
 ### Project Dependencies
 
-![dependencies](dependencies.png)
+![dependencies](https://raw.githubusercontent.com/NashDotNet/Kanban/master/dependencies.PNG)
 
 *Created by [ReSharper](http://www.jetbrains.com/resharper/).*
 
